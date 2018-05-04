@@ -17,6 +17,8 @@ public class FirstClass {
     public static String password = "";
     public static Properties property = new Properties();
 
+    //test
+
 
     public static void main(String[] args) {
         FileInputStream fis;
